@@ -5,4 +5,6 @@ module application.workshopjavafxjdbc {
 
     exports application;
     opens application to javafx.fxml;
+    exports model.entities;
+    opens model.entities to javafx.fxml;
 }
