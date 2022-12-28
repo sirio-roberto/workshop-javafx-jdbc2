@@ -10,7 +10,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
 import model.entities.Department;
-import model.entities.DepartmentService;
+import model.services.DepartmentService;
 
 import java.net.URL;
 import java.util.List;
